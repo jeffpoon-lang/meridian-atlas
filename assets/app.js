@@ -722,7 +722,7 @@ function renderClock(){
  const ang=(h+mi/60)*15,[hx,hy]=pt(146,ang);
  s+=`<line class="hand" x1="${C}" y1="${C}" x2="${hx}" y2="${hy}"/><circle cx="${C}" cy="${C}" r="4" fill="var(--ink)"/>`;
  const cm=MI[BR_MER[cur]];
- s+=`<text class="c-big" x="${C}" y="${C-20}">${BR[cur][0]}時</text><text class="c-time" x="${C}" y="${C+22}">${pad(h)}:${pad(mi)}</text><text class="c-mer" x="${C}" y="${C+44}" style="fill:var(--m-${cm.id})">${esc(S.lang==="en"?cm.es:cm.s)}</text>`;
+ s+=`<text class="c-big" x="${C}" y="${C-20}">${S.lang==="en"?BR[cur][1]:BR[cur][0]+"時"}</text><text class="c-time" x="${C}" y="${C+22}">${pad(h)}:${pad(mi)}</text><text class="c-mer" x="${C}" y="${C+44}" style="fill:var(--m-${cm.id})">${esc(S.lang==="en"?cm.es:cm.s)}</text>`;
  $("#dial").innerHTML=s+"</svg>";
  $("#nowcard").innerHTML=`<h2>${bi(`而家係${BR[cur][0]}時`,`Now: ${BR[cur][1]} hour`)}</h2>
   <p>${bi(`${brHours(cur)}，${cm.zh}當令。`,`${brHours(cur)} — the ${cm.en} is at its peak.`)}</p>
