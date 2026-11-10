@@ -488,8 +488,7 @@
       list.sort((a, b) => b.nrm.dot(cd) - a.nrm.dot(cd));
       const q = list[0];
       const dir = q.nrm.clone(); dir.y = dir.y * 0.6 + 0.08;
-      const dist = Math.min(camera.position.distanceTo(controls.target), fitDist(70, 55));
-      flyTo(q.pos.clone(), dir, Math.max(dist, 240));
+      flyTo(q.pos.clone(), dir, fitDist(85, 62));
     }
     function zoomBy(f) {
       const off = camera.position.clone().sub(controls.target);
