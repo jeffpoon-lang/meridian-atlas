@@ -1,0 +1,236 @@
+BL1	目赤腫痛、視物模糊、近視、夜盲	Red sore eyes, blurred vision, short-sightedness, night blindness
+BL2	頭痛、眉稜骨痛、眼瞼跳動、目赤腫痛	Headache, brow-bone pain, eyelid twitching, red sore eyes
+BL3	頭痛、眩暈、鼻塞	Headache, dizziness, blocked nose
+BL4	頭痛、鼻塞、鼻出血	Headache, blocked nose, nosebleed
+BL5	頭痛、目眩、癲癇	Headache, dizziness, epilepsy
+BL6	頭痛、目眩、鼻塞	Headache, dizziness, blocked nose
+BL7	頭痛、鼻塞、鼻出血、鼻竇炎	Headache, blocked nose, nosebleed, sinusitis
+BL8	頭暈、耳鳴、視物模糊	Dizziness, tinnitus, blurred vision
+BL9	頭頸痛、目痛、鼻塞	Head and neck pain, eye pain, blocked nose
+BL10	後頭痛、頸項強痛、肩背痛、鼻塞	Back-of-head pain, stiff painful neck, shoulder and back pain, blocked nose
+BL11	咳嗽、發熱、肩背痛、頸項強	Cough, fever, shoulder and back pain, stiff neck
+BL12	感冒、咳嗽、發熱頭痛、頸項強	Colds, cough, fever with headache, stiff neck
+BL13	咳嗽、氣喘、潮熱盜汗、鼻塞	Cough, wheezing, afternoon fever and night sweats, blocked nose
+BL14	心痛、心悸、咳嗽、胸悶	Heart pain, palpitations, cough, chest tightness
+BL15	心痛、心悸、失眠、健忘	Heart pain, palpitations, insomnia, forgetfulness
+BL16	心痛、胸悶、腹痛、腸鳴	Heart pain, chest tightness, abdominal pain, rumbling intestines
+BL17	嘔吐、呃逆、咳嗽、出血證、皮膚瘙癢	Vomiting, hiccups, cough, bleeding disorders, itchy skin
+BL18	脅痛、黃疸、眼疾、眩暈	Flank pain, jaundice, eye problems, dizziness
+BL19	脅痛、口苦、黃疸	Flank pain, bitter taste in the mouth, jaundice
+BL20	腹脹、腹瀉、胃口差、水腫	Bloating, diarrhoea, poor appetite, oedema
+BL21	胃痛、腹脹、嘔吐、腸鳴	Stomach pain, bloating, vomiting, rumbling intestines
+BL22	腹脹、腸鳴、水腫、腰背強痛	Bloating, rumbling intestines, oedema, stiff low back
+BL23	腰痛、遺尿、耳鳴耳聾、月經不調、陽痿	Low back pain, bedwetting, tinnitus and deafness, irregular periods, impotence
+BL24	腰痛、痛經、腸鳴	Low back pain, period pain, rumbling intestines
+BL25	腰痛、腹脹、腹瀉、便秘	Low back pain, bloating, diarrhoea, constipation
+BL26	腰痛、腹脹、腹瀉、尿頻	Low back pain, bloating, diarrhoea, frequent urination
+BL27	遺尿、小便不利、腹瀉、腰骶痛	Bedwetting, difficult urination, diarrhoea, sacral pain
+BL28	小便不利、遺尿、腰骶痛、腹瀉	Difficult urination, bedwetting, sacral pain, diarrhoea
+BL29	腰脊強痛、腹瀉、疝氣	Stiff painful spine, diarrhoea, hernia
+BL30	遺尿、月經不調、白帶多、腰骶痛	Bedwetting, irregular periods, vaginal discharge, sacral pain
+BL31	月經不調、白帶多、腰骶痛、小便不利	Irregular periods, vaginal discharge, sacral pain, difficult urination
+BL32	痛經、月經不調、腰骶痛、小便不利	Period pain, irregular periods, sacral pain, difficult urination
+BL33	便秘、腹瀉、月經不調、腰骶痛	Constipation, diarrhoea, irregular periods, sacral pain
+BL34	小腹痛、便秘、腰骶痛	Lower abdominal pain, constipation, sacral pain
+BL35	腹瀉、痔瘡、陽痿、白帶多	Diarrhoea, hemorrhoids, impotence, vaginal discharge
+BL36	腰骶臀腿痛、痔瘡	Pain in the low back, buttock and thigh, hemorrhoids
+BL37	腰痛、下肢無力麻痺	Low back pain, weak numb legs
+BL38	大腿後側及膝窩痛、麻木、便秘	Pain and numbness behind the thigh and knee, constipation
+BL39	腹滿、小便不利、腰脊強痛、腿足抽筋	Abdominal fullness, difficult urination, stiff spine, leg cramps
+BL40	腰背痛、下肢無力、腹痛吐瀉、皮膚病	Low back pain, weak legs, abdominal pain with vomiting and diarrhoea, skin problems
+BL41	肩背拘急、頸項強痛、肘臂麻木	Tight shoulders and back, stiff neck, numb elbow and arm
+BL42	咳嗽、氣喘、久咳體虛、頸項強	Cough, wheezing, chronic cough with weakness, stiff neck
+BL43	咳嗽、氣喘、虛勞、健忘	Cough, wheezing, chronic fatigue, forgetfulness
+BL44	咳嗽、氣喘、胸悶、脊背強痛	Cough, wheezing, chest tightness, stiff back
+BL45	咳嗽、氣喘、肩背痛、熱病	Cough, wheezing, shoulder and back pain, febrile illness
+BL46	嘔吐、噯氣、吞嚥困難、脊背強痛	Vomiting, belching, difficulty swallowing, stiff back
+BL47	胸脅痛、嘔吐、背痛	Chest and flank pain, vomiting, back pain
+BL48	腸鳴、腹痛、腹瀉、黃疸	Rumbling intestines, abdominal pain, diarrhoea, jaundice
+BL49	腹脹、腸鳴、嘔吐、腹瀉	Bloating, rumbling intestines, vomiting, diarrhoea
+BL50	胃痛、腹脹、小兒積食、水腫	Stomach pain, bloating, food stagnation in children, oedema
+BL51	腹痛、便秘、腹部積塊	Abdominal pain, constipation, abdominal masses
+BL52	遺精、陽痿、小便不利、腰脊強痛	Seminal emission, impotence, difficult urination, stiff low back
+BL53	腸鳴、腹脹、小便不利、腰脊痛	Rumbling intestines, bloating, difficult urination, low back pain
+BL54	腰骶痛、下肢無力、痔瘡、小便不利	Sacral pain, weak legs, hemorrhoids, difficult urination
+BL55	腰脊強痛、下肢無力、崩漏	Stiff low back, weak legs, uterine bleeding
+BL56	小腿痛、痔瘡、腰背拘急	Calf pain, hemorrhoids, tight low back
+BL57	小腿抽筋、腰腿痛、痔瘡、便秘	Calf cramps, low back and leg pain, hemorrhoids, constipation
+BL58	頭痛、目眩、鼻塞、腰腿痛、痔瘡	Headache, dizziness, blocked nose, low back and leg pain, hemorrhoids
+BL59	頭重頭痛、腰骶痛、外踝腫痛	Heavy head, headache, sacral pain, swollen outer ankle
+BL60	頭痛、頸項強、腰背痛、腳跟痛、難產	Headache, stiff neck, back pain, heel pain, difficult labour
+BL61	下肢無力、腳跟痛、癲癇	Weak legs, heel pain, epilepsy
+BL62	頭痛、眩暈、失眠、腰腿痛	Headache, dizziness, insomnia, low back and leg pain
+BL63	頭痛、癲癇、小兒驚風、腰痛、外踝痛	Headache, epilepsy, infant convulsions, low back pain, outer ankle pain
+BL64	頭痛、頸項強、腰腿痛、癲癇	Headache, stiff neck, low back and leg pain, epilepsy
+BL65	頭痛、頸項強、目眩、腰腿痛	Headache, stiff neck, dizziness, low back and leg pain
+BL66	頭痛、頸項強、目眩、鼻出血	Headache, stiff neck, dizziness, nosebleed
+BL67	胎位不正、難產、頭痛、鼻塞	Breech baby, difficult labour, headache, blocked nose
+KI1	頭頂痛、眩暈、昏厥急救、失眠、腳底發熱	Pain at the top of the head, dizziness, first aid for fainting, insomnia, hot soles
+KI2	月經不調、遺精、口渴多飲、咽喉痛	Irregular periods, seminal emission, excessive thirst, sore throat
+KI3	腰痛、耳鳴、失眠、咽喉痛、月經不調	Low back pain, tinnitus, insomnia, sore throat, irregular periods
+KI4	腰脊強痛、腳跟痛、咯血、健忘癡呆	Stiff low back, heel pain, coughing blood, forgetfulness
+KI5	月經不調、痛經、小便不利	Irregular periods, period pain, difficult urination
+KI6	失眠、咽喉乾痛、月經不調、便秘	Insomnia, dry sore throat, irregular periods, constipation
+KI7	水腫、盜汗、無汗或多汗、腹脹	Oedema, night sweats, too little or too much sweating, bloating
+KI8	月經不調、崩漏、腹瀉、便秘	Irregular periods, uterine bleeding, diarrhoea, constipation
+KI9	躁狂、嘔吐、小腿內側痛	Agitation, vomiting, inner lower leg pain
+KI10	陽痿、月經不調、小便不利、膝股內側痛	Impotence, irregular periods, difficult urination, inner knee and thigh pain
+KI11	小腹脹痛、小便不利、遺尿、遺精	Lower abdominal pain, difficult urination, bedwetting, seminal emission
+KI12	遺精、陽痿、白帶多、月經不調	Seminal emission, impotence, vaginal discharge, irregular periods
+KI13	月經不調、白帶多、小便不利、腹瀉	Irregular periods, vaginal discharge, difficult urination, diarrhoea
+KI14	月經不調、腹痛、腹瀉、水腫	Irregular periods, abdominal pain, diarrhoea, oedema
+KI15	月經不調、腹痛、便秘	Irregular periods, abdominal pain, constipation
+KI16	腹痛、腹脹、便秘、腹瀉	Abdominal pain, bloating, constipation, diarrhoea
+KI17	腹痛、腹瀉、便秘	Abdominal pain, diarrhoea, constipation
+KI18	嘔吐、腹痛、便秘、不孕	Vomiting, abdominal pain, constipation, infertility
+KI19	腹脹、腸鳴、腹痛、便秘	Bloating, rumbling intestines, abdominal pain, constipation
+KI20	腹痛、腹脹、嘔吐、心悸	Abdominal pain, bloating, vomiting, palpitations
+KI21	腹痛、嘔吐、腹瀉、消化不良	Abdominal pain, vomiting, diarrhoea, indigestion
+KI22	咳嗽、氣喘、胸脅脹滿	Cough, wheezing, fullness of the chest and flank
+KI23	咳嗽、氣喘、胸脅脹滿、乳腺炎	Cough, wheezing, chest fullness, mastitis
+KI24	咳嗽、氣喘、胸脅脹痛、乳腺炎	Cough, wheezing, chest and flank pain, mastitis
+KI25	咳嗽、氣喘、胸痛、心煩	Cough, wheezing, chest pain, restlessness
+KI26	咳嗽、氣喘、痰多、胸脅脹滿	Cough, wheezing, phlegm, chest fullness
+KI27	咳嗽、氣喘、胸痛	Cough, wheezing, chest pain
+PC1	咳嗽、氣喘、胸悶、乳腺炎	Cough, wheezing, chest tightness, mastitis
+PC2	心痛、咳嗽、胸脅脹滿、上臂內側痛	Heart pain, cough, chest fullness, inner upper arm pain
+PC3	心痛、心悸、胃痛、嘔吐、肘臂痛	Heart pain, palpitations, stomach pain, vomiting, elbow and arm pain
+PC4	急性心痛、心悸、咯血、嘔血	Acute heart pain, palpitations, coughing or vomiting blood
+PC5	心痛、心悸、胃痛、嘔吐、瘧疾	Heart pain, palpitations, stomach pain, vomiting, malaria
+PC6	噁心嘔吐、暈車浪、心悸、胸悶、失眠	Nausea and vomiting, motion sickness, palpitations, chest tightness, insomnia
+PC7	心痛、心悸、胃痛、手腕痛、口臭	Heart pain, palpitations, stomach pain, wrist pain, bad breath
+PC8	心痛、口瘡、口臭、手汗多、昏厥急救	Heart pain, mouth ulcers, bad breath, sweaty palms, first aid for fainting
+PC9	心痛、中暑、昏厥急救、熱病	Heart pain, heatstroke, first aid for fainting, febrile illness
+TE1	頭痛、目赤、咽喉腫痛、熱病	Headache, red eyes, sore throat, febrile illness
+TE2	頭痛、耳鳴、咽喉腫痛、手臂痛	Headache, tinnitus, sore throat, arm pain
+TE3	頭痛、耳鳴耳聾、肩背痛、手指屈伸不利	Headache, tinnitus and deafness, shoulder and back pain, stiff fingers
+TE4	腕痛、肩臂痛、耳聾、口渴多飲	Wrist pain, shoulder and arm pain, deafness, excessive thirst
+TE5	感冒發熱、頭痛、耳鳴、脅痛、上肢痛	Colds with fever, headache, tinnitus, flank pain, arm pain
+TE6	便秘、脅痛、耳鳴、失音	Constipation, flank pain, tinnitus, loss of voice
+TE7	耳聾、癲癇、上肢痛	Deafness, epilepsy, arm pain
+TE8	耳聾、突然失音、牙痛、上肢痛	Deafness, sudden loss of voice, toothache, arm pain
+TE9	咽喉腫痛、耳聾、牙痛、前臂痛	Sore throat, deafness, toothache, forearm pain
+TE10	偏頭痛、耳聾、頸部淋巴結腫、肘臂痛	One-sided headache, deafness, swollen neck lymph nodes, elbow pain
+TE11	頭痛、眼黃、肩臂痛	Headache, yellowing eyes, shoulder and arm pain
+TE12	頭痛、頸項強痛、牙痛、肩臂痛	Headache, stiff painful neck, toothache, shoulder and arm pain
+TE13	肩臂痛、甲狀腺腫、頸部淋巴結腫	Shoulder and arm pain, goitre, swollen neck lymph nodes
+TE14	肩痛、手臂難舉	Shoulder pain, difficulty raising the arm
+TE15	肩臂痛、頸項強急	Shoulder and arm pain, stiff neck
+TE16	頭痛、頸項強、耳聾、目痛	Headache, stiff neck, deafness, eye pain
+TE17	耳鳴耳聾、面癱、牙痛、頰腫	Tinnitus and deafness, facial paralysis, toothache, cheek swelling
+TE18	頭痛、耳鳴、小兒驚風	Headache, tinnitus, infant convulsions
+TE19	頭痛、耳鳴、耳痛、小兒驚風	Headache, tinnitus, ear pain, infant convulsions
+TE20	頭痛、耳部腫痛、眼睛混濁、牙痛	Headache, swollen painful ear, cloudy vision, toothache
+TE21	耳鳴、耳聾、中耳炎、牙痛	Tinnitus, deafness, ear infection, toothache
+TE22	頭痛、耳鳴、牙關緊閉、口歪	Headache, tinnitus, lockjaw, facial paralysis
+TE23	頭痛、目赤痛、眼瞼跳動、牙痛	Headache, red sore eyes, eyelid twitching, toothache
+GB1	頭痛、目赤腫痛、眼睛混濁	Headache, red sore eyes, cloudy vision
+GB2	耳鳴、耳聾、牙痛、面癱	Tinnitus, deafness, toothache, facial paralysis
+GB3	耳鳴、耳聾、牙痛、面癱	Tinnitus, deafness, toothache, facial paralysis
+GB4	偏頭痛、眩暈、耳鳴	Migraine, dizziness, tinnitus
+GB5	偏頭痛、目赤腫痛、牙痛	Migraine, red sore eyes, toothache
+GB6	偏頭痛、目赤腫痛、耳鳴	Migraine, red sore eyes, tinnitus
+GB7	頭痛、牙痛、頰腫、口噤	Headache, toothache, cheek swelling, lockjaw
+GB8	偏頭痛、眩暈、小兒驚風	Migraine, dizziness, infant convulsions
+GB9	頭痛、癲癇、牙肉腫痛	Headache, epilepsy, swollen gums
+GB10	頭痛、耳鳴、耳聾	Headache, tinnitus, deafness
+GB11	頭痛、耳鳴、耳聾、耳痛	Headache, tinnitus, deafness, ear pain
+GB12	頭痛、頸項強痛、失眠、牙痛	Headache, stiff painful neck, insomnia, toothache
+GB13	頭痛、眩暈、癲癇、失眠	Headache, dizziness, epilepsy, insomnia
+GB14	前額頭痛、眼瞼下垂、目痛、面癱	Forehead headache, drooping eyelid, eye pain, facial paralysis
+GB15	頭痛、目眩、流淚、鼻塞	Headache, dizziness, watery eyes, blocked nose
+GB16	頭痛、目眩、目赤腫痛、近視	Headache, dizziness, red sore eyes, short-sightedness
+GB17	頭痛、眩暈、牙痛	Headache, dizziness, toothache
+GB18	頭痛、眩暈、鼻塞、鼻出血	Headache, dizziness, blocked nose, nosebleed
+GB19	頭痛、頸項強痛、眩暈、癲癇	Headache, stiff neck, dizziness, epilepsy
+GB20	頭痛、眩暈、感冒、頸項強痛、眼疾	Headache, dizziness, colds, stiff painful neck, eye problems
+GB21	肩頸痛、上肢無力、乳腺炎、難產	Neck and shoulder pain, weak arm, mastitis, difficult labour
+GB22	胸滿、脅痛、腋下腫	Chest fullness, flank pain, swollen armpit
+GB23	胸滿、脅痛、氣喘、嘔吐	Chest fullness, flank pain, wheezing, vomiting
+GB24	脅肋疼痛、嘔吐、胃酸倒流、黃疸	Rib-side pain, vomiting, acid reflux, jaundice
+GB25	腰痛、脅痛、腹脹、小便不利	Low back pain, flank pain, bloating, difficult urination
+GB26	月經不調、白帶多、腰脅痛、疝氣	Irregular periods, vaginal discharge, low back and flank pain, hernia
+GB27	小腹痛、白帶多、疝氣、腰胯痛	Lower abdominal pain, vaginal discharge, hernia, hip pain
+GB28	小腹痛、白帶多、子宮脫垂、疝氣	Lower abdominal pain, vaginal discharge, uterine prolapse, hernia
+GB29	腰腿痛、髖關節痛、下肢無力	Low back and leg pain, hip joint pain, weak legs
+GB30	腰臀疼痛、坐骨神經痛、下肢無力	Hip and buttock pain, sciatica, weak legs
+GB31	下肢無力麻痺、全身瘙癢、腳氣	Weak numb legs, itching all over, beriberi
+GB32	下肢無力、麻木	Weak legs, numbness
+GB33	膝腫痛、膝窩筋緊、小腿麻木	Swollen painful knee, tight hamstrings, numb lower leg
+GB34	脅痛、口苦、膝痛、下肢無力、抽筋	Flank pain, bitter taste, knee pain, weak legs, cramps
+GB35	胸脅脹滿、下肢無力、躁狂	Chest and flank fullness, weak legs, agitation
+GB36	頸項強痛、胸脅痛、下肢無力	Stiff neck, chest and flank pain, weak legs
+GB37	目痛、夜盲、視物模糊、乳房脹痛	Eye pain, night blindness, blurred vision, breast tenderness
+GB38	偏頭痛、外眼角痛、脅痛、下肢無力	Migraine, pain at the outer corner of the eye, flank pain, weak legs
+GB39	頸項強痛、脅痛、下肢無力、腳氣	Stiff neck, flank pain, weak legs, beriberi
+GB40	胸脅痛、外踝腫痛、下肢無力	Chest and flank pain, swollen outer ankle, weak legs
+GB41	偏頭痛、目痛、脅痛、乳腺炎、足背腫痛	Migraine, eye pain, flank pain, mastitis, swollen top of the foot
+GB42	頭痛、目赤、耳鳴、乳腺炎	Headache, red eyes, tinnitus, mastitis
+GB43	頭痛、眩暈、耳鳴、脅痛、熱病	Headache, dizziness, tinnitus, flank pain, febrile illness
+GB44	偏頭痛、目赤、耳聾、失眠多夢	Migraine, red eyes, deafness, insomnia with vivid dreams
+LR1	疝氣、遺尿、崩漏、月經過多	Hernia, bedwetting, uterine bleeding, heavy periods
+LR2	頭痛、目赤、易怒、失眠、月經過多	Headache, red eyes, irritability, insomnia, heavy periods
+LR3	頭痛、眩暈、易怒、月經不調、高血壓	Headache, dizziness, irritability, irregular periods, high blood pressure
+LR4	疝氣、小便不利、內踝腫痛	Hernia, difficult urination, swollen inner ankle
+LR5	月經不調、白帶多、陰部瘙癢、小便不利	Irregular periods, vaginal discharge, genital itching, difficult urination
+LR6	疝氣、崩漏、脅痛、腹痛	Hernia, uterine bleeding, flank pain, abdominal pain
+LR7	膝部腫痛、下肢無力	Swollen painful knee, weak legs
+LR8	月經不調、小便不利、膝痛、陰部痛	Irregular periods, difficult urination, knee pain, genital pain
+LR9	月經不調、遺尿、小便不利、腰骶痛	Irregular periods, bedwetting, difficult urination, sacral pain
+LR10	小腹脹痛、小便不利、陰囊濕癢	Lower abdominal pain, difficult urination, damp itchy scrotum
+LR11	月經不調、白帶多、小腹痛	Irregular periods, vaginal discharge, lower abdominal pain
+LR12	疝氣、陰部腫痛、小腹痛	Hernia, genital swelling and pain, lower abdominal pain
+LR13	腹脹、腹瀉、脅痛、腹部積塊	Bloating, diarrhoea, flank pain, abdominal masses
+LR14	胸脅脹痛、嘔吐、胃酸倒流、乳腺炎	Chest and flank distension, vomiting, acid reflux, mastitis
+CV1	小便不利、痔瘡、遺精、溺水急救	Difficult urination, hemorrhoids, seminal emission, first aid for drowning
+CV2	小便不利、遺尿、遺精、白帶多	Difficult urination, bedwetting, seminal emission, vaginal discharge
+CV3	小便不利、遺尿、月經不調、痛經	Difficult urination, bedwetting, irregular periods, period pain
+CV4	體虛乏力、月經不調、遺尿、陽痿、腹瀉	Weakness and fatigue, irregular periods, bedwetting, impotence, diarrhoea
+CV5	腹痛、腹瀉、水腫、小便不利	Abdominal pain, diarrhoea, oedema, difficult urination
+CV6	虛弱乏力、腹痛、月經不調、遺尿	Weakness and exhaustion, abdominal pain, irregular periods, bedwetting
+CV7	腹痛、水腫、月經不調、白帶多	Abdominal pain, oedema, irregular periods, vaginal discharge
+CV8	腹痛、腹瀉、虛脫（只灸不針）	Abdominal pain, diarrhoea, collapse (moxa only, never needled)
+CV9	水腫、小便不利、腹痛、腹瀉	Oedema, difficult urination, abdominal pain, diarrhoea
+CV10	腹痛、腹脹、腹瀉、嘔吐	Abdominal pain, bloating, diarrhoea, vomiting
+CV11	胃痛、嘔吐、腹脹、食慾不振	Stomach pain, vomiting, bloating, poor appetite
+CV12	胃痛、腹脹、嘔吐、胃酸倒流、消化不良	Stomach pain, bloating, vomiting, acid reflux, indigestion
+CV13	胃痛、嘔吐、打嗝、腹脹	Stomach pain, vomiting, hiccups, bloating
+CV14	心痛、心悸、胃痛、嘔吐	Heart pain, palpitations, stomach pain, vomiting
+CV15	心痛、心悸、癲癇、胸悶	Heart pain, palpitations, epilepsy, chest tightness
+CV16	胸脅脹滿、嘔吐、嬰兒吐奶	Chest fullness, vomiting, milk regurgitation in babies
+CV17	胸悶、氣短、咳嗽、心痛、乳汁少	Chest tightness, shortness of breath, cough, heart pain, low milk supply
+CV18	咳嗽、氣喘、胸痛、嘔吐	Cough, wheezing, chest pain, vomiting
+CV19	咳嗽、氣喘、胸痛	Cough, wheezing, chest pain
+CV20	咳嗽、氣喘、胸痛、咽喉腫痛	Cough, wheezing, chest pain, sore throat
+CV21	咳嗽、氣喘、胸痛、咽喉腫痛	Cough, wheezing, chest pain, sore throat
+CV22	咳嗽、氣喘、咽喉腫痛、喉嚨異物感、失音	Cough, wheezing, sore throat, lump-in-throat feeling, loss of voice
+CV23	舌強不語、流口水、吞嚥困難、失音	Stiff tongue, drooling, difficulty swallowing, loss of voice
+CV24	口歪、牙肉腫痛、流口水、面腫	Facial paralysis, swollen gums, drooling, facial swelling
+GV1	痔瘡、便血、腹瀉、脫肛、腰脊痛	Hemorrhoids, blood in stool, diarrhoea, rectal prolapse, low back pain
+GV2	腰脊強痛、痔瘡、月經不調、下肢無力	Stiff low back, hemorrhoids, irregular periods, weak legs
+GV3	腰骶痛、下肢無力、月經不調、遺精	Sacral pain, weak legs, irregular periods, seminal emission
+GV4	腰痛、陽痿、遺尿、怕冷、月經不調	Low back pain, impotence, bedwetting, feeling cold, irregular periods
+GV5	腰脊強痛、腹痛、腹瀉	Stiff low back, abdominal pain, diarrhoea
+GV6	腰脊強痛、腹瀉、黃疸、痔瘡	Stiff spine, diarrhoea, jaundice, hemorrhoids
+GV7	腰背痛、胃痛、黃疸、嘔吐	Back pain, stomach pain, jaundice, vomiting
+GV8	抽搐、脊背強直、癲癇、胃痛	Spasms, rigid spine, epilepsy, stomach pain
+GV9	胸脅脹痛、黃疸、咳嗽、背痛	Chest and flank distension, jaundice, cough, back pain
+GV10	咳嗽、氣喘、背痛、瘡瘍	Cough, wheezing, back pain, boils
+GV11	心痛、心悸、健忘、背痛	Heart pain, palpitations, forgetfulness, back pain
+GV12	咳嗽、氣喘、身熱、脊背強痛	Cough, wheezing, fever, stiff back
+GV13	頭痛、發熱、瘧疾、脊背強痛	Headache, fever, malaria, stiff spine
+GV14	發熱、感冒、頸項強痛、咳嗽	Fever, colds, stiff painful neck, cough
+GV15	舌強不語、突然失音、後頭痛、頸項強	Stiff tongue, sudden loss of voice, back-of-head pain, stiff neck
+GV16	頭痛、頸項強痛、眩暈、咽喉腫痛	Headache, stiff painful neck, dizziness, sore throat
+GV17	頭痛、頸項強、眩暈、癲癇	Headache, stiff neck, dizziness, epilepsy
+GV18	頭痛、目眩、頸項強、失眠	Headache, dizziness, stiff neck, insomnia
+GV19	頭痛、眩暈、頸項強、癲癇	Headache, dizziness, stiff neck, epilepsy
+GV20	頭痛、眩暈、失眠、健忘、脫肛	Headache, dizziness, insomnia, forgetfulness, rectal prolapse
+GV21	頭頂痛、眩暈、鼻竇炎	Pain at the top of the head, dizziness, sinusitis
+GV22	頭痛、眩暈、鼻塞、鼻出血	Headache, dizziness, blocked nose, nosebleed
+GV23	頭痛、目痛、鼻塞、鼻出血	Headache, eye pain, blocked nose, nosebleed
+GV24	頭痛、眩暈、失眠、鼻塞	Headache, dizziness, insomnia, blocked nose
+GV25	鼻塞、鼻出血、酒糟鼻、昏厥急救	Blocked nose, nosebleed, red nose (rosacea), first aid for fainting
+GV26	昏厥急救、中暑、急性腰扭傷、口歪	First aid for fainting, heatstroke, acute low back sprain, facial paralysis
+GV27	口歪、牙肉腫痛、鼻塞	Facial paralysis, swollen gums, blocked nose
+GV28	牙肉腫痛、口臭、鼻塞、急性腰痛	Swollen gums, bad breath, blocked nose, acute low back pain

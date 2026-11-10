@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  
+  <!-- inner seal border with a gap where the meridian leaves -->
+  <path d="M396 470 H140 Q42 470 42 372 V140 Q42 42 140 42 H372 Q470 42 470 140 V300" fill="none" stroke="#1C6758" stroke-opacity=".55" stroke-width="7" stroke-linecap="round"/>
+  <!-- meridian: flows out of the frame gap -->
+  <path d="M470 300 C470 360 452 404 396 470" fill="none" stroke="#C9921E" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="470" cy="300" r="15" fill="#C9921E"/>
+  <circle cx="452" cy="396" r="11" fill="#C9921E"/>
+  <circle cx="396" cy="470" r="15" fill="#C9921E"/>
+  <text x="256" y="262" text-anchor="middle" dominant-baseline="central" font-family="'LXGW WenKai TC','Noto Serif CJK TC',serif" font-weight="700" font-size="300" fill="#1C6758">銅</text>
+</svg>

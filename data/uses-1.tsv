@@ -1,0 +1,125 @@
+LU1	咳嗽、氣喘、胸痛、肩背痛	Cough, wheezing, chest pain, shoulder and back pain
+LU2	咳嗽、氣喘、胸痛、肩痛	Cough, wheezing, chest pain, shoulder pain
+LU3	咳嗽、氣喘、鼻出血、上臂內側痛	Cough, wheezing, nosebleed, inner upper arm pain
+LU4	咳嗽、氣短、上臂內側痛	Cough, shortness of breath, inner upper arm pain
+LU5	咳嗽、咯血、咽喉腫痛、肘臂攣痛	Cough, coughing blood, sore throat, elbow and arm pain
+LU6	咯血、咳嗽、咽喉痛、痔瘡出血	Coughing blood, cough, sore throat, bleeding hemorrhoids
+LU7	咳嗽、頭痛、頸項強痛、咽喉痛	Cough, headache, stiff neck, sore throat
+LU8	咳嗽、氣喘、咽喉痛、手腕痛	Cough, wheezing, sore throat, wrist pain
+LU9	咳嗽、氣喘、脈弱、手腕痛	Cough, wheezing, weak pulse, wrist pain
+LU10	咳嗽、咽喉腫痛、失音、發熱	Cough, sore throat, loss of voice, fever
+LU11	咽喉腫痛、發熱、昏厥急救	Sore throat, fever, first aid for fainting
+LI1	咽喉腫痛、牙痛、熱病、昏迷	Sore throat, toothache, febrile illness, loss of consciousness
+LI2	牙痛、咽喉腫痛、鼻出血	Toothache, sore throat, nosebleed
+LI3	牙痛、咽喉痛、手背腫痛	Toothache, sore throat, swelling on the back of the hand
+LI4	頭痛、牙痛、面部疼痛、感冒發熱	Headache, toothache, facial pain, colds with fever
+LI5	頭痛、目赤、牙痛、手腕痛	Headache, red eyes, toothache, wrist pain
+LI6	鼻出血、耳鳴、水腫、手臂痠痛	Nosebleed, tinnitus, oedema, aching arm
+LI7	頭痛、面腫、咽喉痛、腹痛	Headache, facial swelling, sore throat, abdominal pain
+LI8	腹痛、腹脹、肘臂痛	Abdominal pain, bloating, elbow and arm pain
+LI9	腹痛、腸鳴、上肢麻木	Abdominal pain, rumbling intestines, numb arm
+LI10	手臂痛、上肢無力、腹痛腹瀉、牙痛	Arm pain, weak arm, abdominal pain, diarrhoea, toothache
+LI11	發熱、咽喉痛、肘痛、皮膚瘙癢、高血壓	Fever, sore throat, elbow pain, itchy skin, high blood pressure
+LI12	肘臂痠痛、麻木	Aching elbow and arm, numbness
+LI13	肘臂攣痛、頸部淋巴結腫	Elbow and arm cramping, swollen neck lymph nodes
+LI14	肩臂痛、頸項拘急、眼疾	Shoulder and arm pain, stiff neck, eye problems
+LI15	肩臂疼痛、肩關節活動不利	Shoulder and arm pain, restricted shoulder movement
+LI16	肩背疼痛、手臂難舉	Shoulder and back pain, difficulty raising the arm
+LI17	咽喉腫痛、失音、喉嚨異物感	Sore throat, loss of voice, lump-in-throat feeling
+LI18	咳嗽、氣喘、咽喉腫痛、失音	Cough, wheezing, sore throat, loss of voice
+LI19	鼻塞、鼻出血、口歪	Blocked nose, nosebleed, facial paralysis
+LI20	鼻塞、鼻炎、嗅覺減退、面癢	Blocked nose, rhinitis, poor sense of smell, itchy face
+ST1	目赤腫痛、流淚、夜盲、眼瞼跳動	Red sore eyes, watery eyes, night blindness, eyelid twitching
+ST2	目赤痛、眼瞼跳動、面癱、頭痛	Sore eyes, eyelid twitching, facial paralysis, headache
+ST3	口眼歪斜、鼻出血、牙痛	Facial paralysis, nosebleed, toothache
+ST4	口歪、流涎、眼瞼跳動	Facial paralysis, drooling, eyelid twitching
+ST5	牙痛、頰腫、口歪	Toothache, cheek swelling, facial paralysis
+ST6	牙痛、頰腫、口噤、面癱	Toothache, cheek swelling, lockjaw, facial paralysis
+ST7	牙痛、耳鳴、下頜關節痛、面癱	Toothache, tinnitus, jaw joint pain, facial paralysis
+ST8	頭痛、目眩、眼痛	Headache, dizziness, eye pain
+ST9	咽喉腫痛、氣喘、高血壓	Sore throat, wheezing, high blood pressure
+ST10	咽喉腫痛、咳嗽、氣喘	Sore throat, cough, wheezing
+ST11	咽喉腫痛、氣喘、頸項強	Sore throat, wheezing, stiff neck
+ST12	咳嗽、氣喘、咽喉痛、鎖骨上窩痛	Cough, wheezing, sore throat, pain above the collarbone
+ST13	咳嗽、氣喘、胸脅脹滿	Cough, wheezing, fullness of the chest
+ST14	咳嗽、氣喘、胸脅脹痛	Cough, wheezing, chest distension and pain
+ST15	咳嗽、氣喘、乳腺炎	Cough, wheezing, mastitis
+ST16	咳嗽、氣喘、胸痛、乳腺炎	Cough, wheezing, chest pain, mastitis
+ST17	定位標誌，不針不灸	Landmark only, not needled or treated with moxa
+ST18	乳汁少、乳腺炎、胸痛、咳嗽	Low milk supply, mastitis, chest pain, cough
+ST19	胃痛、嘔吐、腹脹、食慾不振	Stomach pain, vomiting, bloating, poor appetite
+ST20	胃痛、嘔吐、腹脹、腸鳴	Stomach pain, vomiting, bloating, rumbling intestines
+ST21	胃痛、嘔吐、食慾不振、腹脹	Stomach pain, vomiting, poor appetite, bloating
+ST22	腹脹、腹痛、腸鳴、腹瀉	Bloating, abdominal pain, rumbling intestines, diarrhoea
+ST23	胃痛、心煩、躁狂	Stomach pain, restlessness, agitation
+ST24	胃痛、嘔吐、躁狂	Stomach pain, vomiting, agitation
+ST25	腹脹、腹瀉、便秘、腹痛、月經不調	Bloating, diarrhoea, constipation, abdominal pain, irregular periods
+ST26	腹痛、疝氣、痛經	Abdominal pain, hernia, period pain
+ST27	小腹脹滿、小便不利、疝氣	Lower abdominal fullness, difficult urination, hernia
+ST28	小腹脹滿、小便不利、痛經	Lower abdominal fullness, difficult urination, period pain
+ST29	小腹痛、月經不調、痛經、疝氣	Lower abdominal pain, irregular periods, period pain, hernia
+ST30	腹痛、疝氣、月經不調、陽痿	Abdominal pain, hernia, irregular periods, impotence
+ST31	腰腿痛、下肢無力、髖關節屈伸不利	Low back and leg pain, weak legs, stiff hip
+ST32	腰腿冷痛、下肢無力、腳氣	Cold painful back and legs, weak legs, beriberi
+ST33	腿膝冷痛、屈伸不利、下肢無力	Cold pain in the thigh and knee, stiffness, weak legs
+ST34	急性胃痛、膝腫痛、乳腺炎	Acute stomach pain, swollen painful knee, mastitis
+ST35	膝痛、膝關節屈伸不利	Knee pain, stiff knee
+ST36	胃痛、嘔吐、腹脹、腹瀉、體虛乏力、膝痛	Stomach pain, vomiting, bloating, diarrhoea, fatigue and weakness, knee pain
+ST37	腸鳴、腹痛、腹瀉、便秘、闌尾炎	Rumbling intestines, abdominal pain, diarrhoea, constipation, appendicitis
+ST38	肩臂痛（肩周炎）、小腿冷痛	Shoulder pain (frozen shoulder), cold painful lower leg
+ST39	小腹痛、腹瀉、下肢無力	Lower abdominal pain, diarrhoea, weak legs
+ST40	痰多、咳嗽、頭痛眩暈、便秘	Phlegm, cough, headache and dizziness, constipation
+ST41	踝關節痛、頭痛、眩暈、腹脹	Ankle pain, headache, dizziness, bloating
+ST42	胃痛、面腫、足背腫痛	Stomach pain, facial swelling, swollen top of the foot
+ST43	面目浮腫、腹痛、足背腫痛	Puffy face and eyes, abdominal pain, swollen top of the foot
+ST44	牙痛、咽喉痛、鼻出血、胃痛、熱病	Toothache, sore throat, nosebleed, stomach pain, febrile illness
+ST45	鼻出血、牙痛、多夢、熱病	Nosebleed, toothache, vivid dreams, febrile illness
+SP1	月經過多、崩漏、便血、多夢	Heavy periods, uterine bleeding, blood in stool, vivid dreams
+SP2	腹脹、胃痛、便秘、熱病	Bloating, stomach pain, constipation, febrile illness
+SP3	胃痛、腹脹、腹瀉、身重乏力	Stomach pain, bloating, diarrhoea, heavy tired body
+SP4	胃痛、嘔吐、腹痛、腹瀉	Stomach pain, vomiting, abdominal pain, diarrhoea
+SP5	腹脹、腹瀉、便秘、足踝痛	Bloating, diarrhoea, constipation, ankle pain
+SP6	月經不調、痛經、失眠、腹脹腹瀉、遺尿	Irregular periods, period pain, insomnia, bloating, diarrhoea, bedwetting
+SP7	腹脹、腸鳴、小便不利、下肢無力	Bloating, rumbling intestines, difficult urination, weak legs
+SP8	痛經、月經不調、腹痛、腹瀉	Period pain, irregular periods, abdominal pain, diarrhoea
+SP9	腹脹、水腫、小便不利、膝痛	Bloating, oedema, difficult urination, knee pain
+SP10	月經不調、痛經、濕疹、皮膚瘙癢	Irregular periods, period pain, eczema, itchy skin
+SP11	小便不利、遺尿、腹股溝腫痛	Difficult urination, bedwetting, groin swelling and pain
+SP12	腹痛、疝氣、崩漏	Abdominal pain, hernia, uterine bleeding
+SP13	腹痛、疝氣、腹部積塊	Abdominal pain, hernia, abdominal masses
+SP14	腹痛、腹瀉、便秘、疝氣	Abdominal pain, diarrhoea, constipation, hernia
+SP15	腹痛、腹瀉、便秘	Abdominal pain, diarrhoea, constipation
+SP16	腹痛、消化不良、便秘、痢疾	Abdominal pain, indigestion, constipation, dysentery
+SP17	胸脅脹痛、噯氣、腹脹、水腫	Chest and flank pain, belching, bloating, oedema
+SP18	胸脅疼痛、咳嗽、乳腺炎、乳汁少	Chest and flank pain, cough, mastitis, low milk supply
+SP19	胸脅脹痛	Chest and flank distension and pain
+SP20	咳嗽、氣喘、胸脅脹滿	Cough, wheezing, fullness of the chest and flank
+SP21	全身疼痛、四肢無力、氣喘、脅痛	Aches all over, weak limbs, wheezing, flank pain
+HT1	心痛、脅痛、上肢麻木、腋臭	Heart pain, flank pain, numb arm, underarm odour
+HT2	頭痛、脅痛、肩臂痛	Headache, flank pain, shoulder and arm pain
+HT3	心痛、肘臂攣痛、手顫、健忘	Heart pain, elbow and arm cramps, hand tremor, forgetfulness
+HT4	心痛、突然失音、肘臂攣痛	Heart pain, sudden loss of voice, elbow and arm cramps
+HT5	心悸、突然失音、舌強不語、腕臂痛	Palpitations, sudden loss of voice, stiff tongue, wrist and arm pain
+HT6	心痛、心悸、盜汗、吐血	Heart pain, palpitations, night sweats, vomiting blood
+HT7	失眠、心悸、健忘、焦慮	Insomnia, palpitations, forgetfulness, anxiety
+HT8	心悸、胸痛、手心熱、小便不利	Palpitations, chest pain, hot palms, difficult urination
+HT9	心悸、心痛、熱病、昏厥急救	Palpitations, heart pain, febrile illness, first aid for fainting
+SI1	乳汁少、乳腺炎、頭痛、高熱昏迷	Low milk supply, mastitis, headache, high fever with loss of consciousness
+SI2	頭痛、耳鳴、咽喉痛、熱病	Headache, tinnitus, sore throat, febrile illness
+SI3	頸項強痛、腰背痛、頭痛、耳聾	Stiff painful neck, back pain, headache, deafness
+SI4	頭痛頸強、黃疸、腕痛、熱病	Headache with stiff neck, jaundice, wrist pain, febrile illness
+SI5	頭痛、目眩、耳鳴、腕痛	Headache, dizziness, tinnitus, wrist pain
+SI6	視力模糊、肩背肘臂痛、急性腰痛	Blurred vision, shoulder, back and arm pain, acute low back pain
+SI7	頭痛、頸項強、肘臂痛、熱病	Headache, stiff neck, elbow and arm pain, febrile illness
+SI8	肘臂痛、頸項痛、癲癇	Elbow and arm pain, neck pain, epilepsy
+SI9	肩臂疼痛、手臂難舉	Shoulder and arm pain, difficulty raising the arm
+SI10	肩臂疼痛、肩不能舉	Shoulder and arm pain, inability to raise the shoulder
+SI11	肩胛疼痛、肩背痛、乳腺炎	Shoulder blade pain, upper back pain, mastitis
+SI12	肩胛疼痛、上肢痠麻	Shoulder blade pain, aching and numb arm
+SI13	肩胛拘急疼痛	Tight painful shoulder blade
+SI14	肩背痠痛、頸項強急	Aching shoulders and upper back, stiff neck
+SI15	咳嗽、氣喘、肩背疼痛	Cough, wheezing, shoulder and upper back pain
+SI16	耳鳴、耳聾、咽喉腫痛、頸項強痛	Tinnitus, deafness, sore throat, stiff painful neck
+SI17	耳鳴、耳聾、咽喉腫痛、頸部腫痛	Tinnitus, deafness, sore throat, swollen neck
+SI18	口眼歪斜、牙痛、頰腫、眼瞼跳動	Facial paralysis, toothache, cheek swelling, eyelid twitching
+SI19	耳鳴、耳聾、中耳炎、牙痛	Tinnitus, deafness, ear infection, toothache

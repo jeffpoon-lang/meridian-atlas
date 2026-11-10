@@ -1,0 +1,87 @@
+<div class="wrap">
+  <header class="top">
+    <div class="brand">
+      <div class="seal" aria-hidden="true">銅</div>
+      <div><h1 class="one" data-zh="經絡銅人" data-en="Meridian Atlas">經絡銅人</h1><p class="one" data-zh="Meridian Atlas · 十四經 · 361 穴 · 3D · WHO 標準" data-en="14 meridians · 361 points · 3D · WHO standard">Meridian Atlas · 十四經 · 361 穴 · 3D · WHO 標準</p></div>
+    </div>
+    <div class="hdr-ctl">
+    <div class="seg" id="setSeg" role="group" aria-label="穴位範圍">
+      <button data-set="core" data-zh="精選 94 穴" data-en="94 key points"></button>
+      <button data-set="all" data-zh="全部 361 穴" data-en="All 361"></button>
+    </div>
+    <div class="seg" id="langSeg" role="group" aria-label="顯示語言 Language">
+      <button data-lang="zh">中文</button>
+      <button data-lang="en">English</button>
+      <button data-lang="both">中英對照</button>
+    </div>
+    </div>
+  </header>
+
+  <nav class="tabs" role="tablist">
+    <button role="tab" data-tab="model" data-zh="人體模型" data-en="Body"></button>
+    <button role="tab" data-tab="clock" data-zh="子午流注" data-en="Body clock"></button>
+    <button role="tab" data-tab="cards" data-zh="閃卡" data-en="Flashcards"></button>
+    <button role="tab" data-tab="quiz" data-zh="測驗" data-en="Quiz"></button>
+  </nav>
+
+  <section id="tab-model" hidden>
+    <div class="model">
+      <aside class="mlist" id="mlist"></aside>
+      <div class="stage">
+        <div class="stage-bar">
+          <div class="search">
+            <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>
+            <input id="q" type="search" autocomplete="off" placeholder="搜尋：足三里、ST36、Hegu、Joining Valley…" aria-label="搜尋經絡或穴位">
+            <div class="results" id="results" hidden></div>
+          </div>
+          <div class="seg" id="viewSeg" role="group" aria-label="角度">
+            <button data-view="front" data-zh="正面" data-en="Front"></button>
+            <button data-view="back" data-zh="背面" data-en="Back"></button>
+            <button data-view="side" data-zh="側面" data-en="Side"></button>
+            <button data-view="right" class="only3d" data-zh="右側" data-en="Right"></button>
+          </div>
+        </div>
+        <div class="figwrap">
+          <svg id="fig" viewBox="0 0 300 620" preserveAspectRatio="xMidYMid meet" role="img" aria-label="人體經絡圖"></svg>
+          <div id="stage3d" class="stage3d" hidden></div>
+          <div id="ctl3d" class="ctl3d only3d" role="group" aria-label="縮放 Zoom">
+            <button data-z="in" aria-label="放大 Zoom in">+</button>
+            <button data-z="out" aria-label="縮小 Zoom out">−</button>
+            <button data-z="reset" aria-label="重置 Reset view">⟲</button>
+          </div>
+          <div class="fig-hint" data-zh="撳經絡或穴位睇詳情" data-en="Tap a line or a point"></div>
+        </div>
+        <div class="zoombar" id="zoomBar">
+          <button class="chip" data-zoom="full" data-zh="全身" data-en="Whole"></button>
+          <button class="chip" data-zoom="head" data-zh="頭面" data-en="Head"></button>
+          <button class="chip" data-zoom="trunk" data-zh="軀幹" data-en="Trunk"></button>
+          <button class="chip" data-zoom="arm" data-zh="上肢" data-en="Arm"></button>
+          <button class="chip" data-zoom="leg" data-zh="下肢" data-en="Leg"></button>
+        </div>
+      </div>
+      <div class="info" id="info"></div>
+    </div>
+  </section>
+
+  <section id="tab-clock" hidden>
+    <div class="clock">
+      <div class="dialwrap" id="dial"></div>
+      <div>
+        <div class="card nowcard" id="nowcard"></div>
+        <ul class="brlist" id="brlist"></ul>
+      </div>
+    </div>
+  </section>
+
+  <section id="tab-cards" hidden>
+    <div class="study" id="cards"></div>
+  </section>
+
+  <section id="tab-quiz" hidden>
+    <div class="study" id="quiz"></div>
+  </section>
+
+  <div class="credit"><p>Made by <b>靈性IT仔</b> · 鍾意就 follow 我 IG <a class="ig" href="https://www.instagram.com/jeffpoon.ai/" target="_blank" rel="noopener">@jeffpoon.ai</a></p><a class="bmc" href="https://buymeacoffee.com/sitequirrel" target="_blank" rel="noopener"><span aria-hidden="true">☕</span> Buy me a coffee</a></div>
+  <div class="credit"><p><span class="one" data-zh="Made by 靈性IT仔 · 鍾意就 follow 我 IG" data-en="Made by 靈性IT仔 (Spiritual IT Guy) · Follow on Instagram">Made by 靈性IT仔 · 鍾意就 follow 我 IG</span> <a class="ig" href="https://www.instagram.com/jeffpoon.ai/" target="_blank" rel="noopener">@jeffpoon.ai</a></p><a class="bmc" href="https://buymeacoffee.com/sitequirrel" target="_blank" rel="noopener"><span aria-hidden="true">☕</span> Buy me a coffee</a></div>
+  <p class="foot one" data-zh="經絡路線同 3D 人體係示意圖，方便學習用，唔係精準解剖位置；寸（cun）係同身寸。代號同英文名跟 WHO 國際標準（2008）。穴位英文意譯跟常用教科書譯法；主治係傳統文獻嘅簡述，只供學習，唔係醫療建議，有需要請諮詢註冊中醫師。" data-en="Meridian routes and the 3D body are schematic, for study only, not exact anatomy. A cun is the body's own proportional inch. Codes and names follow the WHO standard (2008). English point names are common textbook translations. Uses are brief summaries of traditional indications for study, not medical advice. Please consult a registered practitioner.">經絡路線同 3D 人體係示意圖，方便學習用，唔係精準解剖位置。</p>
+</div>

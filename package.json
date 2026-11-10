@@ -1,0 +1,9 @@
+{
+  "name": "meridian-atlas",
+  "private": true,
+  "type": "module",
+  "scripts": { "build": "node scripts/build.mjs" },
+  "dependencies": {
+    "@vercel/og": "0.6.2"
+  }
+}
